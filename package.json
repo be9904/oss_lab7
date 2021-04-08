@@ -1,0 +1,26 @@
+{
+  "name": "stat-test-jhc",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/be9904/oss_lab7.git"
+  },
+  "bin": {
+    "stat01": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/be9904/oss_lab7/issues"
+  },
+  "homepage": "https://github.com/be9904/oss_lab7#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
